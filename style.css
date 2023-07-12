@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+.square {
+    height: 120px;
+    width: 50px;
+    background-color: #ffffff;
+    border: 3px solid black;
+    margin-left: 140px;
+}
+
+
+
+
+/* li{
+    list-style-type: none;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+} */
